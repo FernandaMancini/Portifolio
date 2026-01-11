@@ -1,0 +1,125 @@
+{
+  "name": "Fernanda A Mancini",
+  "photo": "https://media.licdn.com/dms/image/v2/D4D03AQGIWbnfoXhZUA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718150522929?e=1769644800&v=beta&t=atI308eJuZeaZWyheLnGLlr76-IM0x__CbnW8y0gpbY",
+  "job": "Estudante de TI | IA, Machine Learning e GenAI",
+  "location": "Santo André - SP, Brasil",
+  "phone": "+55 (11) 96626-2506",
+  "email": "fernandamancini07@gmail.com",
+  "github": "https://github.com/FernandaMancini",
+  "summary": "Estudante de Tecnologia da Informação com foco em Inteligência Artificial, Machine Learning e soluções GenAI. Interesse em dados, automação e inovação, buscando transformar ideias em soluções inteligentes com impacto real. Perfil analítico, curioso e orientado ao aprendizado contínuo.",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "../../data/imgs/python.png"
+      },
+      {
+        "name": "Machine Learning",
+        "logo": "../../data/imgs/machine.png"
+      },
+      {
+        "name": "C",
+        "logo": "../../data/imgs/c.webp"
+      },
+      {
+        "name": "Java",
+        "logo": "../../data/imgs/java.png"
+      },
+      {
+        "name": "Vscode",
+        "logo": "../../data/imgs/vscode.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "../../data/imgs/html.png"
+      },
+      {
+        "name": "Css",
+        "logo": "../../data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "../../data/imgs/js.png"
+      },
+      {
+        "name": "Mysql",
+        "logo": "../../data/imgs/mysql.png"
+      },
+      {
+        "name": "Tableau",
+        "logo": "../../data/imgs/tableau.svg"
+      }
+ 
+
+    ],
+    "softSkills": [
+      "Raciocínio lógico",
+      "Autonomia",
+      "Curiosidade",
+      "Trabalho em equipe",
+      "Comunicação",
+      "Aprendizado contínuo"
+    ]
+  },
+  "education": [
+    {
+      "institution": "UNIVESP",
+      "degree": "Bacharelado em Tecnologia da Informação",
+      "period": "2025 - 2027",
+      "description": "Ênfase em desenvolvimento de sistemas, bancos de dados, segurança da informação e fundamentos de Inteligência Artificial e Machine Learning."
+    }
+  ],
+  "languages": [
+    "Português (Nativo)",
+    "Inglês (Intermediário - B2)"
+  ],
+  "portfolio": [
+    {
+      "name": "Implementing Artificial Intelligence for Emotion Detection",
+      "description": "Projeto de detecção de emoções e análise de sentimentos utilizando visão computacional e NLP.",
+      "url": "https://github.com/FernandaMancini/Implementing-Artificial-Intelligence-for-Emotion-Detection",
+      "github": true
+    },
+    {
+      "name": "Formação Machine Learning Specialist",
+      "description": "Projetos em Python focados em pré-processamento de dados, modelagem e avaliação de modelos de Machine Learning.",
+      "url": "https://github.com/FernandaMancini/Formacao-Machine-Learning-Specialist",
+      "github": true
+    },
+    {
+      "name": "Detectando Fake News com Machine Learning",
+      "description": "Classificador de notícias falsas utilizando NLP e algoritmos supervisionados, com acurácia superior a 90%.",
+      "url": "https://github.com/FernandaMancini/Detectando-Fake-News-com-Machine-Learning",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Jovem Aprendiz / Mercado Livre",
+      "period": "Mar/2023 - Mar/2024",
+      "description": "Atuação no setor de Fulfillment, com foco em controle de falhas e avaliação de métricas dos representantes. Elaboração de relatórios, análise de casos massivos e criação de planilhas para suporte à tomada de decisão. Contribuição para a eficiência operacional e melhoria da experiência do usuário."
+    }
+  ],
+  "courses": [
+    {
+      "name": "Machine Learning",
+      "institution": "ICMC",
+      "period": "Mar/2025 - Jun/2025"
+    },
+    {
+      "name": "Iniciação Científica",
+      "institution": "ICTP-SAIFR",
+      "period": "Jun/2025 - Out/2025"
+    },
+    {
+      "name": "Summer Code (CC50)",
+      "institution": "Fundação Estudar",
+      "period": "Nov/2022 - Fev/2023"
+    }
+  ],
+  "awards": [
+    "1º Lugar — Summer Code (Fundação Estudar)",
+    "Medalha de Prata — Maratona Tech",
+    "Medalha de Bronze — OBMEP"
+  ]
+}
